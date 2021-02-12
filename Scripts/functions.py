@@ -1,1 +1,1 @@
-print("functions for analysing data")
+    print("Functions for analyzing data")
