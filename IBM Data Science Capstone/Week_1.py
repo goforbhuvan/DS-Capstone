@@ -1,2 +1,4 @@
 print("Week 1 assignments")
-print("Test")
+
+import pandas as import pd
+import numpy as np
